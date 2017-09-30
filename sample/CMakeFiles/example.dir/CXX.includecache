@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/harumo/program/foundation/Logger/sample/testLogger.cpp
+Logger/Logger.hpp
+-
+iostream
+-
+unistd.h
+-
+
