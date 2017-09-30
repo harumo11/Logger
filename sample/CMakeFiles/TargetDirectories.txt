@@ -1,3 +1,0 @@
-/home/harumo/program/foundation/Logger/sample/CMakeFiles/rebuild_cache.dir
-/home/harumo/program/foundation/Logger/sample/CMakeFiles/edit_cache.dir
-/home/harumo/program/foundation/Logger/sample/CMakeFiles/example.dir
