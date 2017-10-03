@@ -6,7 +6,7 @@ Logger can display your log colorfully.
 see sample/sample.cpp
 
 ### Logger
-![demo](./demo.png)
+![demo](./data/demo.png)
 
 ```cpp
 #include <iostream>
@@ -24,7 +24,7 @@ int main(void){
 ```
 
 ### Progress bar
-![video](./movie.gif)
+![video](./data/movie.gif)
 
 ```cpp
 #include <iostream>
